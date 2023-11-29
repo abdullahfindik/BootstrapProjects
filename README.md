@@ -1,1 +1,3 @@
 # BootstrapProjects
+
+NOT RESPONSIVE, YET..
